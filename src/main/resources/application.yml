@@ -1,0 +1,9 @@
+server:
+  servlet:
+    context-path: /apinauts
+  port: 8080
+
+# CSAS configuration
+csas:
+  baseUrl: https://webapi.developers.erstegroup.com/api/csas/sandbox
+  web-api-key: 7f3adf06-9b41-482a-8081-2d28a4285477
